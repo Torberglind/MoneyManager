@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoneyManager</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_hem">Hem</string>
+    <string name="title_transaktioner">Transaktioner</string>
+    <string name="title_dina_utgifter">Dina Utgifter</string>
+</resources>
